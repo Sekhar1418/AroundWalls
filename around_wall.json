@@ -1,0 +1,29 @@
+{ 
+"Wallpapers":
+	[
+		{
+			"author": "FlatEdge",
+		  "url": "http://i.imgur.com/20w3AAX.jpg",
+		  "thumbUrl": "http://i.imgur.com/20w3AAX.jpg",
+			"name": "wallpaper1"
+		},
+		{
+			"author": "FlatEdge",
+		  "url": "http://i.imgur.com/20w3AAX.jpg",
+		  "thumbUrl": "http://i.imgur.com/20w3AAX.jpg",
+			"name": "wallpaper2"
+		},
+		{
+			"author": "FlatEdge",
+		  "url": "http://i.imgur.com/20w3AAX.jpg",
+		  "thumbUrl": "http://i.imgur.com/20w3AAX.jpg",
+			"name": "wallpaper3"
+		},
+		{
+			"author": "FlatEdge",
+		  "url": "http://i.imgur.com/20w3AAX.jpg",
+		  "thumbUrl": "http://i.imgur.com/20w3AAX.jpg",
+			"name": "wallpaper4"
+		}
+	]
+}
